@@ -1,0 +1,105 @@
+﻿@model Library_Management.ViewModels.BookImageViewModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_ApplicationLayout.cshtml";
+
+}
+<h2>Create</h2>
+
+<h4>Books</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" pattern="[a-zA-Z'-'\s]*" required />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookName" class="control-label"></label>
+                <input asp-for="BookName" class="form-control" pattern="[a-zA-Z'-'\s]*" title="Please enter only characters" required />
+                <span asp-validation-for="BookName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" required />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AuthorId" class="control-label">Author</label>
+                <select asp-for="@Model.AuthorId" class="form-select" required>
+                    <option value="">Select Author</option>
+
+                    @foreach (var item in ViewBag.Authors)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Publisher" class="control-label"></label>
+                <input asp-for="Publisher" class="form-control"  title="please fill with properly" required />
+                <span asp-validation-for="Publisher" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PublishDate" class="control-label"></label>
+                <input id="PublishDate" asp-for="PublishDate" class="form-control" required  />
+                <span asp-validation-for="PublishDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookNameImage" class="control-label"></label>
+                <input asp-for="BookNameImage" class="form-control" style="background-color: white;" required />
+                <span asp-validation-for="BookNameImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LanguageId" class="control-label">Language</label>
+                <select asp-for="@Model.LanguageId" class="form-select" required>
+                    <option value="">Select Language</option>
+
+                    @foreach (var item in ViewBag.Languages)
+                    {
+                        <option value="@item.Id">@item.Language</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control" required></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PageNo" class="control-label"></label>
+                <input asp-for="PageNo" class="form-control" required />
+                <span asp-validation-for="PageNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@section Scripts{
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#PublishDate").datepicker({
+                minDate: -0,
+                maxDate: "+0M +0D"
+            });
+        });
+
+    </script>
+}
+<script>
+    document.getElementById('PublishDate').value = new Date().toISOString().slice(0, 10);
+</script>
+
+
+

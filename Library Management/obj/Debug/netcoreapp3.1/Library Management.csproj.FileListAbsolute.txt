@@ -1,0 +1,531 @@
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.StaticWebAssets.xml
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.exe
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.deps.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.runtimeconfig.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.runtimeconfig.dev.json
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.pdb
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.Views.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.Views.pdb
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\Naresh\Desktop\Library Management\Library Management\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.csproj.AssemblyReference.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.AssemblyInfoInputs.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.AssemblyInfo.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorAssemblyInfo.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorAssemblyInfo.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\staticwebassets\Library Management.StaticWebAssets.Manifest.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\staticwebassets\Library Management.StaticWebAssets.xml
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\scopedcss\bundle\Library Management.styles.css
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.TagHelpers.input.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.TagHelpers.output.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorCoreGenerate.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAccount\Home.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAccount\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAccount\Logout.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAccount\Success.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\StaffInfo.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\SearchingAuthor.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\BooksMediaList.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\BorrowingBook.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\GridView1.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\GridView2.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\ReadMore.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\SearchingBook.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\SearchingLanguage.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Info.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\MyBooks.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\_ViewImports.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Success.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginError.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ApplicationLayout.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ClientSide.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports1.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorTargetAssemblyInfo.cache
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorTargetAssemblyInfo.cs
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.Views.pdb
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.csproj.CopyComplete
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.dll
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.pdb
+C:\Users\Naresh\Desktop\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.genruntimeconfig.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.StaticWebAssets.xml
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.exe
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.deps.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.runtimeconfig.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.runtimeconfig.dev.json
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.pdb
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.Views.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Library Management.Views.pdb
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.csproj.AssemblyReference.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.AssemblyInfoInputs.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.AssemblyInfo.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorAssemblyInfo.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorAssemblyInfo.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\staticwebassets\Library Management.StaticWebAssets.Manifest.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\staticwebassets\Library Management.StaticWebAssets.xml
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\scopedcss\bundle\Library Management.styles.css
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.TagHelpers.input.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.TagHelpers.output.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorCoreGenerate.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAccount\Home.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAccount\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAccount\Logout.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAccount\Success.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAdmin\StaffInfo.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientAuthor\SearchingAuthor.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\BooksMediaList.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\BorrowingBook.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\GridView1.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\GridView2.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\ReadMore.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBook\SearchingBook.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientBorrowing\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientLanguage\SearchingLanguage.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\Info.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\ClientStudents\MyBooks.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Areas\Client\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Success.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Author\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Borrowing\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\FindLateBooks\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginError.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Language\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ApplicationLayout.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ClientSide.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports1.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorTargetAssemblyInfo.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorTargetAssemblyInfo.cs
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.Views.pdb
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.csproj.CopyComplete
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.dll
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.pdb
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\obj\Debug\netcoreapp3.1\Library Management.genruntimeconfig.cache
+C:\Users\Sai\Desktop\clone\maro-project\Library Management\bin\Debug\netcoreapp3.1\Api.StaticWebAssets.xml

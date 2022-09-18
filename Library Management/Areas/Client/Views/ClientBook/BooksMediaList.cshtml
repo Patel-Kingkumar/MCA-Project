@@ -1,0 +1,729 @@
+﻿@model IEnumerable<Api.ViewModel.BookAuthLangViewModel>
+<!DOCTYPE html>
+<html lang="zxx">
+
+
+<head>
+
+    <!-- Meta -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+
+    <!-- Title -->
+    <title>..:: LIBRARIA ::..</title>
+
+    <!-- Favicon -->
+    <link href="~/ClientTemplate/images/favicon.ico" rel="icon" type="image/x-icon" />
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i%7CLato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" />
+    <link href="~/ClientTemplate/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+    <!-- Mobile Menu -->
+    <link href="~/ClientTemplate/css/mmenu.css" rel="stylesheet" type="text/css" />
+    <link href="~/ClientTemplate/css/mmenu.positioning.css" rel="stylesheet" type="text/css" />
+
+    <!-- Stylesheet -->
+    <link href="~/ClientTemplate/css/style.css" rel="stylesheet" type="text/css" />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+
+
+    <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+    @*<script>
+    $(document).ready(function () {
+        function getBookData(bookId) {
+            $.ajax({
+                url: '@Url.Action("BooksMediaList","ClientBook")';
+                url: "api/book/Index",
+                type: 'GET',
+                dataType: 'json',
+                cache: false,
+                success: function (data, textStatus, jqXHR) {
+                    data.forEach(function (books) {
+                        $("#titleSearch").val($("#titleSearch").val() + books.Title);
+                        $("#authorSearch").val($("#authorSearch").val() + books.AuthorName);
+                        $("#languageSearch").val($("#authorSearch").val() + books.Laguages);
+                        $("#publisherSearch").val($("#authorSearch").val() + books.Publisher);
+                    });
+                });
+        }
+    }
+    </script>*@
+
+</head>
+
+<body>
+
+    <!-- Start: Header Section -->
+    <header id="header-v1" class="navbar-wrapper">
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-default">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="navbar-header">
+                                <div class="navbar-brand">
+                                    <h1>
+                                        <a href="index-2.html">
+                                            <img src="~/ClientTemplate/images/libraria-logo-v1.png" alt="LIBRARIA" />
+                                        </a>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-9">
+                            <!-- Header Topbar -->
+                            <div class="header-topbar hidden-sm hidden-xs">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="topbar-info">
+                                            <a href="#"><i class="fa fa-phone"></i>+61-3-8376-6284</a>
+                                            <span>/</span>
+                                            <a href="#"><i class="fa fa-envelope"></i>support@libraria.com</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="topbar-links">
+                                            <div class="header-cart dropdown">
+                                                <div class="dropdown-menu cart-dropdown">
+                                                    <ul>
+                                                        <li class="clearfix">
+                                                            <img src="~/ClientTemplate/images/header-cart-image-01.jpg" alt="cart item" />
+                                                            <div class="item-info">
+                                                                <div class="name">
+                                                                    <a href="#">The Great Gatsby</a>
+                                                                </div>
+                                                                <div class="author"><strong>Author:</strong> F. Scott Fitzgerald</div>
+                                                                <div class="price">1 X $10.00</div>
+                                                            </div>
+                                                            <a class="remove" href="#"><i class="fa fa-trash-o"></i></a>
+                                                        </li>
+                                                        <li class="clearfix">
+                                                            <img src="~/ClientTemplate/images/header-cart-image-02.jpg" alt="cart item" />
+                                                            <div class="item-info">
+                                                                <div class="name">
+                                                                    <a href="#">The Great Gatsby</a>
+                                                                </div>
+                                                                <div class="author"><strong>Author:</strong> F. Scott Fitzgerald</div>
+                                                                <div class="price">1 X $10.00</div>
+                                                            </div>
+                                                            <a class="remove" href="#"><i class="fa fa-trash-o"></i></a>
+                                                        </li>
+                                                        <li class="clearfix">
+                                                            <img src="~/ClientTemplate/images/header-cart-image-03.jpg" alt="cart item" />
+                                                            <div class="item-info">
+                                                                <div class="name">
+                                                                    <a href="#">The Great Gatsby</a>
+                                                                </div>
+                                                                <div class="author"><strong>Author:</strong> F. Scott Fitzgerald</div>
+                                                                <div class="price">1 X $10.00</div>
+                                                            </div>
+                                                            <a class="remove" href="#"><i class="fa fa-trash-o"></i></a>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="cart-total">
+                                                        <div class="title">SubTotal</div>
+                                                        <div class="price">$30.00</div>
+                                                    </div>
+                                                    <div class="cart-buttons">
+                                                        <a href="cart.html" class="btn btn-dark-gray">View Cart</a>
+                                                        <a href="checkout.html" class="btn btn-primary">Checkout</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="navbar-collapse hidden-sm hidden-xs">
+                                <ul class="nav navbar-nav">
+
+                                    <li><a asp-area="Client" asp-controller="ClientBook" asp-action="BooksMediaList">Home</a></li>
+
+                                    <li class="dropdown">
+                                        <a data-toggle="dropdown" class="dropdown-toggle disabled" href="">Books</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="/Client/ClientBook/BooksMediaList">Books List View</a></li>
+                                            <li><a href="/Client/ClientBook/Gridview1">Books Grid View V1</a></li>
+                                            <li><a href="/Client/ClientBook/Gridview2">Books Grid View V2</a></li>
+                                            <li><a href="/Client/ClientBook/BorrowingBook">Books &amp; Borrowing</a></li>
+                                        </ul>
+                                    </li>
+                                    @*<li><a href="services.html">Services</a></li>
+                                        <li><a href="contact.html">Contact</a></li>*@
+                                    <li><a href="/Client/ClientAdmin/StaffInfo">Staff Info</a></li>
+                                    <li><a href="/Client/ClientStudents/MyBooks">Hold Book</a></li>
+                                    <li><a href="/Client/ClientStudents/Info">My Profile</a></li>
+                                    <li><a asp-area="Client" asp-controller="ClientAccount" asp-action="Index">Logout</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mobile-menu hidden-lg hidden-md">
+                        <a href="#mobile-menu"><i class="fa fa-navicon"></i></a>
+                        <div id="mobile-menu">
+                            <ul>
+                                <li class="mobile-title">
+                                    <h4>Navigation</h4>
+                                    <a href="#" class="close"></a>
+                                </li>
+                                <li>
+                                    <a asp-area="Client" asp-controller="ClientBook" asp-action="BooksMediaList">Home</a>
+                                </li>
+                                <li>
+                                    <a href="books-media-list-view.html">Books</a>
+                                    <ul>
+                                        <li><a href="/Client/ClientBook/BooksMediaList">Books List View</a></li>
+                                        <li><a href="/Client/ClientBook/Gridview1">Books Grid View V1</a></li>
+                                        <li><a href="/Client/ClientBook/Gridview2">Books Grid View V2</a></li>
+                                        <li><a href="/Client/ClientBook/BorrowingBook">Books &amp; Borrowing</a></li>
+                                    </ul>
+                                </li>
+                                @*<li><a href="services.html">Services</a></li>
+                                    <li><a href="contact.html">Contact</a></li>*@
+                                <li><a href="/Client/ClientAdmin/StaffInfo">Staff Info</a></li>
+                                <li><a href="/Client/ClientStudents/MyBooks">Hold Books</a></li>
+                                <li><a href="/Client/ClientStudents/Info">My Profile</a></li>
+                                <li><a asp-area="Client" asp-controller="ClientAccount" asp-action="Index">Logout</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <!-- End: Header Section -->
+    <!-- Start: Page Banner -->
+    <section class="page-banner services-banner">
+        <div class="container">
+            <div class="banner-header">
+                <h2>Books Listing</h2>
+                <span class="underline center"></span>
+                <p class="lead">Proin ac eros pellentesque dolor pharetra tempo.</p>
+            </div>
+            <div class="breadcrumb">
+                <ul>
+                    <li>Home </li>
+                    <li><span>/</span></li>
+                    <li>Books</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-- End: Page Banner -->
+    <!-- Start: Book & Media Section -->
+    @*<div id="content" class="site-content">*@
+    <div id="primary" class="content-area">
+        @*<main id="main" class="site-main">*@
+        <div class="books-media-list">
+            <div class="container">
+                <div class="row">
+                    <!-- Start: Search Section -->
+                    <section class="search-filters">
+                        <div class="container">
+                            <div style="margin: 0 0 -40px" class="filter-box">
+                                @*<h3>What are you looking for at the library?</h3>*@
+                                <form action="http://libraria.demo.presstigers.com/index.html" method="get">
+                                    <div class="col-md-12 col-sm-12">
+                                        <div class="form-group">
+                                            <h3 style="margin: 0 0 -8px;">What are you looking for at the library?</h3>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </section>
+                    <!-- End: Search Section -->
+                </div>
+                <div class="row">
+                    <div class="col-md-9 col-md-push-3">
+                        @*<div class="filter-options margin-list">
+                                <div class="row">
+                                    <div class="col-md-4 col-sm-4">
+                                        <select name="orderby">
+                                            <option selected="selected">Default sorting</option>
+                                            @foreach (var item in Model)
+                                            {
+                                                <option>@item.Languages</option>
+                                            }
+                                        </select>
+                                    </div>
+                                    <div class="col-md-4 col-sm-4">
+                                        <div class="filter-result">Showing items 1 to 9 of 19 total</div>
+                                    </div>
+                                </div>
+                            </div>*@
+
+
+                        <div class="books-list">
+                            <article>
+                                @foreach (var item in Model)
+                                {
+                                    <div class="single-book-box">
+                                        <div class="post-thumbnail">
+                                            <img id="imageList" style="width: 242px; height: 300px;" src="~/Images/@item.BookImage" />
+                                        </div>
+                                        <div class="post-detail">
+                                            <div class="books-social-sharing">
+                                                <ul>
+                                                    <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                                    <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                                    <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                                                    <li><a href="#" target="_blank"><i class="fa fa-rss"></i></a></li>
+                                                    <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <header class="entry-header">
+                                                <div class="row">
+                                                    <div class="col-sm-6">
+                                                        <h3 class="entry-title">
+                                                            <a id="title" href="books-media-detail-v1.html">@Html.DisplayFor(modelItem => item.Title)</a>
+                                                        </h3>
+                                                        <ul>
+                                                            <li id="bookName"><strong>Book Name : </strong>@Html.DisplayFor(modelItem => item.BookName)</li>
+                                                            <li id="authorName"><strong>Author : </strong>@Html.DisplayFor(modelItem => item.AuthorName)</li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="col-sm-6">
+                                                        <ul>
+                                                            <li id="language"><strong>Language : </strong>@Html.DisplayFor(modelItem => item.Languages)</li>
+                                                            <li id="publisher"><strong>Publisher : </strong>@Html.DisplayFor(modelItem => item.Publisher)</li>
+                                                            <li id="quantity"><strong>Quantity : </strong>@Html.DisplayFor(modelItem => item.Quantity)</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </header>
+                                            <div class="entry-content">
+                                                @*<p>@Html.DisplayFor(modelItem => item.Description)</p>*@
+                                            </div>
+                                            <footer class="entry-footer">
+                                                <a class="btn btn-dark-gray" href="/Client/ClientBook/ReadMore/@item.Id">Read More</a>
+                                            </footer>
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                                }
+                            </article>
+                        </div>
+                        <nav class="navigation pagination text-center">
+                            <h2 class="screen-reader-text">Posts navigation</h2>
+                            @*<div class="nav-links">
+                                    <a class="prev page-numbers" href="#."><i class="fa fa-long-arrow-left"></i> Previous</a>
+                                    <a class="page-numbers" href="#.">1</a>
+                                    <span class="page-numbers current">2</span>
+                                    <a class="page-numbers" href="#.">3</a>
+                                    <a class="page-numbers" href="#.">4</a>
+                                    <a class="next page-numbers" href="#.">Next <i class="fa fa-long-arrow-right"></i></a>
+                                </div>*@
+                        </nav>
+                    </div>
+                    <div class="col-md-3 col-md-pull-9">
+                        <aside id="secondary" class="sidebar widget-area" data-accordion-group>
+                            @*<div class="widget widget_related_search open" data-accordion>
+                                    <h4 class="widget-title" data-control>Related Numbers</h4>
+                                    <div data-content>
+                                        <div data-accordion>
+                                            <h5 class="widget-sub-title" data-control>Title</h5>
+                                            <div class="widget_categories" data-content>
+                                                <ul>
+                                                    @foreach (var name in Model.Select(x => x.Title))
+                                                    {
+                                                        <li><a href="#" id="titleCount">
+                                                            @{
+                                                                var title = Html.DisplayFor(modelItem => name);
+                                                            }
+                                                            @title
+                                                            <span>@name.Count()</span></a></li>
+                                                    }
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div data-accordion>
+                                            <h5 class="widget-sub-title" data-control>Author</h5>
+                                            <div class="widget_categories" data-content>
+                                                <ul>
+                                                    @foreach (var name in Model.Select(x => x.AuthorName).Distinct())
+                                                    {
+                                                        <li><a href="#" id="authorNameCount">@Html.DisplayFor(modelItem => name)<span>(18)</span></a></li>
+                                                    }
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div data-accordion>
+                                            <h5 class="widget-sub-title" data-control>Language</h5>
+                                            <div class="widget_categories" data-content>
+                                                <ul>
+                                                    @foreach (var name in Model.Select(x => x.Languages).Distinct())
+                                                    {
+                                                        <li><a href="#" id="languageCount">@Html.DisplayFor(modelItem => name)<span>(18)</span></a></li>
+                                                    }
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div data-accordion>
+                                            <h5 class="widget-sub-title" data-control>Publisher</h5>
+                                            <div class="widget_categories" data-content>
+                                                <ul>
+                                                    @foreach (var name in Model.Select(x => x.Publisher).Distinct())
+                                                    {
+                                                        <li><a href="#" id="publisherCount">@Html.DisplayFor(modelItem => name)<span>(18)</span></a></li>
+                                                    }
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>*@
+                            <div class="widget widget_narrow_search" data-accordion>
+                                <h4 class="widget-title" data-control>Narrow your search</h4>
+                                <div data-content>
+                                    <div data-accordion>
+                                        <h4 data-control>Title</h4>
+                                        <div class="widget_material" data-content>
+                                            <form action="#">
+                                                @foreach (var name in Model.Select(x => x.Title).Distinct())
+                                                {
+                                                    <!--var url = "/Client/ClientBook/SearchingBook&Title=" + name;
+                                                    <label><input id="titleSearch" type="checkbox" name="material" value="name" onchange="myfunction(event)"/> Html.DisplayFor(modelItem => name)</label>--> 
+                                                    @*<a onclick="myfunction(event)" asp-controller="ClientBook" asp-action="SearchingBook" area="Client">filter</a>*@
+                                                    <!--<a href="Url.Action("SearchingBook", "ClientBook", new { type = name })">title</a>-->
+                                                    <a asp-controller="ClientBook" asp-action="SearchingBook" asp-route-Title="@name" target="_self"><h6>@name</h6></a><br />
+
+                                                    @*<a href="/Client/ClientBook/SearchingBook?title='<% #Eval("name") %>'"> @Html.DisplayFor(modelItem => name)</a>*@
+                                                }
+                                            </form>
+                                        </div>
+                                    </div>
+                                    <div data-accordion>
+                                        <h4 data-control>Author</h4>
+                                        <div class="widget_material" data-content>
+                                            <form action="#">
+                                                @foreach (var name in Model.Select(x => x.AuthorName).Distinct())
+                                                {
+                                                    @*<label><input id="authorSearch" type="checkbox" name="material" value="authors" /> @Html.DisplayFor(modelItem => name)</label>*@
+                                                    <a asp-controller="ClientAuthor" asp-action="SearchingAuthor" asp-route-Name="@name" target="_self"><h6>@name</h6></a><br />
+                                                }
+                                            </form>
+                                        </div>
+                                    </div>
+                                    <div data-accordion>
+                                        <h4 data-control>Language</h4>
+                                        <div class="widget_material" data-content>
+                                            <form action="#">
+                                                @foreach (var name in Model.Select(x => x.Languages).Distinct())
+                                                {
+                                                    @*<label><input id="languageSearch" type="checkbox" name="material" value="languages" /> @Html.DisplayFor(modelItem => name)</label>*@
+                                                    <a asp-controller="ClientLanguage" asp-action="SearchingLanguage" asp-route-Languages="@name" target="_self"><h6>@name</h6></a><br />
+                                                }
+                                            </form>
+                                        </div>
+                                    </div>
+                                    @*<div data-accordion>
+                                        <h5 class="widget-sub-title" data-control>Publisher</h5>
+                                        <div class="widget_material" data-content>
+                                            <form action="#">
+                                                @foreach (var name in Model.Select(x => x.Publisher).Distinct())
+                                                {
+                                                    <label><input id="publisherSearch" type="checkbox" name="material" value="publishers" /> @Html.DisplayFor(modelItem => name)</label>
+                                                }
+                                            </form>
+                                        </div>
+                                    </div>*@
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End: Books & Media Section -->
+    <!-- Start: Social Network -->
+    <section class="social-network section-padding">
+        <div class="container">
+            <div class="center-content">
+                <h2 class="section-title">Follow Us</h2>
+                <span class="underline center"></span>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            <ul>
+                <li>
+                    <a class="facebook" href="#" target="_blank">
+                        <span>
+                            <i class="fa fa-facebook-f"></i>
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a class="twitter" href="#" target="_blank">
+                        <span>
+                            <i class="fa fa-twitter"></i>
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a class="google" href="#" target="_blank">
+                        <span>
+                            <i class="fa fa-google-plus"></i>
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a class="rss" href="#" target="_blank">
+                        <span>
+                            <i class="fa fa-rss"></i>
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a class="linkedin" href="#" target="_blank">
+                        <span>
+                            <i class="fa fa-linkedin"></i>
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a class="youtube" href="#" target="_blank">
+                        <span>
+                            <i class="fa fa-youtube"></i>
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <!-- End: Social Network -->
+    <!-- Start: Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <div id="footer-widgets">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 widget-container">
+                        <div id="text-2" class="widget widget_text">
+                            <h3 class="footer-widget-title">About Libraria</h3>
+                            <span class="underline left"></span>
+                            <div class="textwidget">
+                                It is a long established fact that a reader will be distracted by the readable content of a page when looking.
+                            </div>
+                            <address>
+                                <div class="info">
+                                    <i class="fa fa-location-arrow"></i>
+                                    <span>21 King Street, Melbourne, Victoria 3000 Australia</span>
+                                </div>
+                                <div class="info">
+                                    <i class="fa fa-envelope"></i>
+                                    <span><a href="mailto:support@libraria.com">support@libraria.com</a></span>
+                                </div>
+                                <div class="info">
+                                    <i class="fa fa-phone"></i>
+                                    <span><a href="tel:012-345-6789">+ 012-345-6789</a></span>
+                                </div>
+                            </address>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-6 widget-container">
+                        <div id="nav_menu-2" class="widget widget_nav_menu">
+                            <h3 class="footer-widget-title">Quick Links</h3>
+                            <span class="underline left"></span>
+                            <div class="menu-quick-links-container">
+                                <ul id="menu-quick-links" class="menu">
+                                    <li><a href="#">Library News</a></li>
+                                    <li><a href="#">History</a></li>
+                                    <li><a href="#">Meet Our Staff</a></li>
+                                    <li><a href="#">Board of Trustees</a></li>
+                                    <li><a href="#">Budget</a></li>
+                                    <li><a href="#">Annual Report</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix hidden-lg hidden-md hidden-xs tablet-margin-bottom"></div>
+                    <div class="col-md-2 col-sm-6 widget-container">
+                        <div id="text-4" class="widget widget_text">
+                            <h3 class="footer-widget-title">Timing</h3>
+                            <span class="underline left"></span>
+                            <div class="timming-text-widget">
+                                <time datetime="2017-02-13">Mon - Thu: 9 am - 9 pm</time>
+                                <time datetime="2017-02-13">Fri: 9 am - 6 pm</time>
+                                <time datetime="2017-02-13">Sat: 9 am - 5 pm</time>
+                                <time datetime="2017-02-13">Sun: 1 pm - 6 pm</time>
+                                <ul>
+                                    <li><a href="#">Closings</a></li>
+                                    <li><a href="#">Branches</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 widget-container">
+                        <div class="widget twitter-widget">
+                            <h3 class="footer-widget-title">Latest Tweets</h3>
+                            <span class="underline left"></span>
+                            <div id="twitter-feed">
+                                <ul>
+                                    <li>
+                                        <p><a href="#">TemplateLibraria</a> Sed ut perspiciatis unde omnis iste natus error sit voluptatem. <a href="#">template-libraria.com</a></p>
+                                    </li>
+                                    <li>
+                                        <p><a href="#">TemplateLibraria</a> Sed ut perspiciatis unde omnis iste natus error sit voluptatem. <a href="#">template-libraria.com</a></p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="sub-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-text col-md-3">
+                        <p><a target="_blank" href="https://www.templateshub.net">Templates Hub</a></p>
+                    </div>
+                    <div class="col-md-9 pull-right">
+                        <ul>
+                            <li><a href="index-2.html">Home</a></li>
+                            <li><a href="books-media-list-view.html">Books &amp; Media</a></li>
+                            <li><a href="news-events-list-view.html">News &amp; Events</a></li>
+                            <li><a href="#">Kids &amp; Teens</a></li>
+                            <li><a href="services.html">Services</a></li>
+                            <li><a href="#">Research</a></li>
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End: Footer -->
+    <!-- jQuery Latest Version 1.x -->
+    <script type="text/javascript" src="~/ClientTemplate/js/jquery-1.12.4.min.js"></script>
+
+    <!-- jQuery UI -->
+    <script type="text/javascript" src="~/ClientTemplate/js/jquery-ui.min.js"></script>
+
+    <!-- jQuery Easing -->
+    <script type="text/javascript" src="~/ClientTemplate/js/jquery.easing.1.3.js"></script>
+
+    <!-- Bootstrap -->
+    <script type="text/javascript" src="~/ClientTemplate/js/bootstrap.min.js"></script>
+
+    <!-- Mobile Menu -->
+    <script type="text/javascript" src="~/ClientTemplate/js/mmenu.min.js"></script>
+
+    <!-- Harvey - State manager for media queries -->
+    <script type="text/javascript" src="~/ClientTemplate/js/harvey.min.js"></script>
+
+    <!-- Waypoints - Load Elements on View -->
+    <script type="text/javascript" src="~/ClientTemplate/js/waypoints.min.js"></script>
+
+    <!-- Facts Counter -->
+    <script type="text/javascript" src="~/ClientTemplate/js/facts.counter.min.js"></script>
+
+    <!-- MixItUp - Category Filter -->
+    <script type="text/javascript" src="~/ClientTemplate/js/mixitup.min.js"></script>
+
+    <!-- Owl Carousel -->
+    <script type="text/javascript" src="~/ClientTemplate/js/owl.carousel.min.js"></script>
+
+    <!-- Accordion -->
+    <script type="text/javascript" src="~/ClientTemplate/js/accordion.min.js"></script>
+
+    <!-- Responsive Tabs -->
+    <script type="text/javascript" src="~/ClientTemplate/js/responsive.tabs.min.js"></script>
+
+    <!-- Responsive Table -->
+    <script type="text/javascript" src="~/ClientTemplate/js/responsive.table.min.js"></script>
+
+    <!-- Masonry -->
+    <script type="text/javascript" src="~/ClientTemplate/js/masonry.min.js"></script>
+
+    <!-- Carousel Swipe -->
+    <script type="text/javascript" src="~/ClientTemplate/js/carousel.swipe.min.js"></script>
+
+    <!-- bxSlider -->
+    <script type="text/javascript" src="~/ClientTemplate/js/bxslider.min.js"></script>
+
+    <!-- Custom Scripts -->
+    <script type="text/javascript" src="~/ClientTemplate/js/main.js"></script>
+</body>
+<script type="text/javascript">
+
+    function myfunction(e) {
+        
+        console.log(e.target.value);
+        SearchingBook(e.target.value);
+           
+        }
+
+
+        //function toggleVisibility(id) {
+        //    var el = document.getElementById(id);
+
+        //    if (el.style.visibility == "visible") {
+        //        el.style.visibility = "hidden";
+        //    }
+        //    else {
+        //        el.style.visibility = "visible";
+        //    }
+        //}
+
+    //$('#titleSearch').one("click", function () {
+    //    $('#post-thumbnail').show();
+    //});
+
+    //function show_img() {
+    //    if (document.getElementById("check").checked) {
+    //        document.getElementById("img").innerHTML = "<img src='path to your image'>";
+    //    }
+    //}
+
+    $(document).ready(function () {
+        $('img').show();
+        $('input:checkbox').change(function () {
+            this.checked ? $('img').show('slow') : $('img').hide();
+        })
+    });
+
+    //$(document).ready(function () {
+    //    $('input[name=material]').click(function () {
+    //        $('#imageList').attr('src', $('input[name=material]:checked').val());
+    //    });
+    //});
+
+      @*function Doclick()
+        {
+           var checkedValue = $('.Checkbox:checked').val();
+             $.ajax({
+            url: "@Url.Action("BooksMediaList", "ClientBook")",
+            type: "post",
+            dataType: "json",
+                 data: { checkstring: checkedValue },
+                 success: function (response) {
+                     console.log(success);
+            }
+        });
+        }*@  
+
+    function myfunction() {
+        let uname = document.getElementById("#keywords");
+        
+        console.log(keywords.value);
+        
+    }
+
+</script>
+</html>
